@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodePoster</string>
+    <string name="scan">Scan</string>
+    <string name="service_url">http://livefactory.ru/tasks/process_state</string>
+</resources>
